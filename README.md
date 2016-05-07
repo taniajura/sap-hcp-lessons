@@ -1,1 +1,1 @@
-# sap-hcp-lessons
+My sample programs and files for SAP HANA Cloud Platform development
